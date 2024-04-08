@@ -1,7 +1,7 @@
 import * as fs from "fs";
 import csv from "csv-parser";
 
-const filePath = "./california.csv";
+const filePath = "./california_cities.csv";
 
 fs.createReadStream(filePath)
   .pipe(csv())
