@@ -1,0 +1,483 @@
+Name,Type,County,Population
+Adelanto,City,San Bernardino,38046
+Agoura Hills,City,Los Angeles,20299
+Alameda,City,Alameda,78280
+Albany,City,Alameda,20271
+Alhambra,City,Los Angeles,82868
+Aliso Viejo,City,Orange,52176
+Alturas,City,Modoc,2715
+Amador City,City,Amador,200
+American Canyon,City,Napa,21837
+Anaheim,City,Orange,346824
+Anderson,City,Shasta,11323
+Angels Camp,City,Calaveras,3667
+Antioch,City,Contra Costa,115291
+Apple Valley,Town,San Bernardino,75791
+Arcadia,City,Los Angeles,56681
+Arcata,City,Humboldt,18857
+Arroyo Grande,City,San Luis Obispo,18441
+Artesia,City,Los Angeles,16395
+Arvin,City,Kern,19495
+Atascadero,City,San Luis Obispo,29773
+Atherton,Town,San Mateo,7188
+Atwater,City,Merced,31970
+Auburn,City,Placer,13776
+Avalon,City,Los Angeles,3460
+Avenal,City,Kings,13696
+Azusa,City,Los Angeles,50000
+Bakersfield,City,Kern,403455
+Baldwin Park,City,Los Angeles,72176
+Banning,City,Riverside,29505
+Barstow,City,San Bernardino,25415
+Beaumont,City,Riverside,53036
+Bell,City,Los Angeles,33559
+Bell Gardens,City,Los Angeles,39501
+Bellflower,City,Los Angeles,79190
+Belmont,City,San Mateo,28335
+Belvedere,City,Marin,2126
+Benicia,City,Solano,27131
+Berkeley,City,Alameda,124321
+Beverly Hills,City,Los Angeles,32701
+Big Bear Lake,City,San Bernardino,5046
+Biggs,City,Butte,1964
+Bishop,City,Inyo,3819
+Blue Lake,City,Humboldt,1208
+Blythe,City,Riverside,18317
+Bradbury,City,Los Angeles,921
+Brawley,City,Imperial,26416
+Brea,City,Orange,47325
+Brentwood,City,Contra Costa,64292
+Brisbane,City,San Mateo,4851
+Buellton,City,Santa Barbara,5161
+Buena Park,City,Orange,84034
+Burbank,City,Los Angeles,107337
+Burlingame,City,San Mateo,31386
+Calabasas,City,Los Angeles,23241
+Calexico,City,Imperial,38633
+California City,City,Kern,14973
+Calimesa,City,Riverside,10026
+Calipatria,City,Imperial,6515
+Calistoga,City,Napa,5228
+Camarillo,City,Ventura,70741
+Campbell,City,Santa Clara,43959
+Canyon Lake,City,Riverside,11082
+Capitola,City,Santa Cruz,9938
+Carlsbad,City,San Diego,114746
+Carmel-by-the-Sea,City,Monterey,3220
+Carpinteria,City,Santa Barbara,13264
+Carson,City,Los Angeles,95558
+Cathedral City,City,Riverside,51493
+Ceres,City,Stanislaus,49302
+Cerritos,City,Los Angeles,49578
+Chico,City,Butte,101475
+Chino,City,San Bernardino,91403
+Chino Hills,City,San Bernardino,78411
+Chowchilla,City,Madera,19039
+Chula Vista,City,San Diego,275487
+Citrus Heights,City,Sacramento,87583
+Claremont,City,Los Angeles,37266
+Clayton,City,Contra Costa,11070
+Clearlake,City,Lake,16685
+Cloverdale,City,Sonoma,8996
+Clovis,City,Fresno,120124
+Coachella,City,Riverside,41941
+Coalinga,City,Fresno,17590
+Colfax,City,Placer,1995
+Colma,Town,San Mateo,1507
+Colton,City,San Bernardino,53909
+Colusa,City,Colusa,6411
+Commerce,City,Los Angeles,12378
+Compton,City,Los Angeles,95740
+Concord,City,Contra Costa,125410
+Corcoran,City,Kings,22339
+Corning,City,Tehama,8244
+Corona,City,Riverside,157136
+Coronado,City,San Diego,20192
+Corte Madera,Town,Marin,10222
+Costa Mesa,City,Orange,111918
+Cotati,City,Sonoma,7584
+Covina,City,Los Angeles,51268
+Crescent City,City,Del Norte,6673
+Cudahy,City,Los Angeles,22811
+Culver City,City,Los Angeles,40779
+Cupertino,City,Santa Clara,60381
+Cypress,City,Orange,50151
+Daly City,City,San Mateo,104901
+Dana Point,City,Orange,33107
+Danville,Town,Contra Costa,43582
+Davis,City,Yolo,66850
+Del Mar,City,San Diego,3954
+Del Rey Oaks,City,Monterey,1592
+Delano,City,Kern,51428
+Desert Hot Springs,City,Riverside,32512
+Diamond Bar,City,Los Angeles,55072
+Dinuba,City,Tulare,24563
+Dixon,City,Solano,18988
+Dorris,City,Siskiyou,860
+Dos Palos,City,Merced,5798
+Downey,City,Los Angeles,114355
+Duarte,City,Los Angeles,21727
+Dublin,City,Alameda,72589
+Dunsmuir,City,Siskiyou,1707
+East Palo Alto,City,San Mateo,30034
+Eastvale,City,Riverside,69757
+El Cajon,City,San Diego,106215
+El Centro,City,Imperial,44322
+El Cerrito,City,Contra Costa,25962
+El Monte,City,Los Angeles,109450
+El Segundo,City,Los Angeles,17272
+Elk Grove,City,Sacramento,176124
+Emeryville,City,Alameda,12905
+Encinitas,City,San Diego,62007
+Escalon,City,San Joaquin,7472
+Escondido,City,San Diego,151038
+Etna,City,Siskiyou,678
+Eureka,City,Humboldt,26512
+Exeter,City,Tulare,10321
+Fairfax,Town,Marin,7605
+Fairfield,City,Solano,119881
+Farmersville,City,Tulare,10397
+Ferndale,City,Humboldt,1398
+Fillmore,City,Ventura,16419
+Firebaugh,City,Fresno,8096
+Folsom,City,Sacramento,80454
+Fontana,City,San Bernardino,208393
+Fort Bragg,City,Mendocino,6983
+Fort Jones,City,Siskiyou,695
+Fortuna,City,Humboldt,12516
+Foster City,City,San Mateo,33805
+Fountain Valley,City,Orange,57047
+Fowler,City,Fresno,6700
+Fremont,City,Alameda,230504
+Fresno,City,Fresno,542107
+Fullerton,City,Orange,143617
+Galt,City,Sacramento,25383
+Garden Grove,City,Orange,171949
+Gardena,City,Los Angeles,61027
+Gilroy,City,Santa Clara,59520
+Glendale,City,Los Angeles,196543
+Glendora,City,Los Angeles,52558
+Goleta,City,Santa Barbara,32690
+Gonzales,City,Monterey,8647
+Grand Terrace,City,San Bernardino,13150
+Grass Valley,City,Nevada,14016
+Greenfield,City,Monterey,18937
+Gridley,City,Butte,7421
+Grover Beach,City,San Luis Obispo,12701
+Guadalupe,City,Santa Barbara,8057
+Gustine,City,Merced,6110
+Half Moon Bay,City,San Mateo,11795
+Hanford,City,Kings,57990
+Hawaiian Gardens,City,Los Angeles,14149
+Hawthorne,City,Los Angeles,88083
+Hayward,City,Alameda,162954
+Healdsburg,City,Sonoma,11340
+Hemet,City,Riverside,89833
+Hercules,City,Contra Costa,26016
+Hermosa Beach,City,Los Angeles,19728
+Hesperia,City,San Bernardino,99818
+Hidden Hills,City,Los Angeles,1725
+Highland,City,San Bernardino,56999
+Hillsborough,Town,San Mateo,11387
+Hollister,City,San Benito,41678
+Holtville,City,Imperial,5605
+Hughson,City,Stanislaus,7481
+Huntington Beach,City,Orange,198711
+Huntington Park,City,Los Angeles,54883
+Huron,City,Fresno,6206
+Imperial,City,Imperial,20263
+Imperial Beach,City,San Diego,26137
+Indian Wells,City,Riverside,4757
+Indio,City,Riverside,89137
+City of Industry,City,Los Angeles,264
+Inglewood,City,Los Angeles,107762
+Ione,City,Amador,5141
+Irvine,City,Orange,307670
+Irwindale,City,Los Angeles,1472
+Isleton,City,Sacramento,794
+Jackson,City,Amador,5019
+Jurupa Valley,City,Riverside,105053
+Kerman,City,Fresno,16016
+King City,City,Monterey,13332
+Kingsburg,City,Fresno,12380
+La Cañada Flintridge,City,Los Angeles,20573
+La Habra,City,Orange,63097
+La Habra Heights,City,Los Angeles,5682
+La Mesa,City,San Diego,61121
+La Mirada,City,Los Angeles,48008
+La Palma,City,Orange,15581
+La Puente,City,Los Angeles,38062
+La Quinta,City,Riverside,37558
+La Verne,City,Los Angeles,31334
+Lafayette,City,Contra Costa,25391
+Laguna Beach,City,Orange,23032
+Laguna Hills,City,Orange,31374
+Laguna Niguel,City,Orange,64355
+Laguna Woods,City,Orange,17644
+Lake Elsinore,City,Riverside,70265
+Lake Forest,City,Orange,85858
+Lakeport,City,Lake,5026
+Lakewood,City,Los Angeles,82496
+Lancaster,City,Los Angeles,173516
+Larkspur,City,Marin,13064
+Lathrop,City,San Joaquin,28701
+Lawndale,City,Los Angeles,31807
+Lemon Grove,City,San Diego,27627
+Lemoore,City,Kings,27038
+Lincoln,City,Placer,49757
+Lindsay,City,Tulare,12659
+Live Oak,City,Sutter,9106
+Livermore,City,Alameda,87955
+Livingston,City,Merced,14172
+Lodi,City,San Joaquin,66348
+Loma Linda,City,San Bernardino,24791
+Lomita,City,Los Angeles,20921
+Lompoc,City,Santa Barbara,44444
+Long Beach,City,Los Angeles,466742
+Loomis,Town,Placer,6836
+Los Alamitos,City,Orange,11780
+Los Altos,City,Santa Clara,31625
+Los Altos Hills,Town,Santa Clara,8489
+Los Angeles,City,Los Angeles,3898747
+Los Banos,City,Merced,45532
+Los Gatos,Town,Santa Clara,33529
+Loyalton,City,Sierra,740
+Lynwood,City,Los Angeles,67265
+Madera,City,Madera,66224
+Malibu,City,Los Angeles,10654
+Mammoth Lakes,Town,Mono,7191
+Manhattan Beach,City,Los Angeles,35506
+Manteca,City,San Joaquin,83498
+Maricopa,City,Kern,1026
+Marina,City,Monterey,22359
+Martinez,City,Contra Costa,37287
+Marysville,City,Yuba,12844
+Maywood,City,Los Angeles,25138
+McFarland,City,Kern,14161
+Mendota,City,Fresno,12595
+Menifee,City,Riverside,102527
+Menlo Park,City,San Mateo,33780
+Merced,City,Merced,86333
+Mill Valley,City,Marin,14231
+Millbrae,City,San Mateo,23216
+Milpitas,City,Santa Clara,80273
+Mission Viejo,City,Orange,93653
+Modesto,City,Stanislaus,218464
+Monrovia,City,Los Angeles,37931
+Montague,City,Siskiyou,1226
+Montclair,City,San Bernardino,37865
+Monte Sereno,City,Santa Clara,3479
+Montebello,City,Los Angeles,62640
+Monterey,City,Monterey,30218
+Monterey Park,City,Los Angeles,61096
+Moorpark,City,Ventura,36284
+Moraga,Town,Contra Costa,16870
+Moreno Valley,City,Riverside,208634
+Morgan Hill,City,Santa Clara,45483
+Morro Bay,City,San Luis Obispo,10757
+Mount Shasta,City,Siskiyou,3223
+Mountain View,City,Santa Clara,82376
+Murrieta,City,Riverside,110949
+Napa,City,Napa,79246
+National City,City,San Diego,56173
+Needles,City,San Bernardino,4931
+Nevada City,City,Nevada,3152
+Newark,City,Alameda,47529
+Newman,City,Stanislaus,12351
+Newport Beach,City,Orange,85239
+Norco,City,Riverside,26316
+Norwalk,City,Los Angeles,102773
+Novato,City,Marin,53225
+Oakdale,City,Stanislaus,23181
+Oakland,City,Alameda,440646
+Oakley,City,Contra Costa,43357
+Oceanside,City,San Diego,174068
+Ojai,City,Ventura,7637
+Ontario,City,San Bernardino,175265
+Orange,City,Orange,139911
+Orange Cove,City,Fresno,9649
+Orinda,City,Contra Costa,19514
+Orland,City,Glenn,8298
+Oroville,City,Butte,20042
+Oxnard,City,Ventura,202063
+Pacific Grove,City,Monterey,15090
+Pacifica,City,San Mateo,38640
+Palm Desert,City,Riverside,51163
+Palm Springs,City,Riverside,44575
+Palmdale,City,Los Angeles,169450
+Palo Alto,City,Santa Clara,68572
+Palos Verdes Estates,City,Los Angeles,13347
+Paradise,Town,Butte,4764
+Paramount,City,Los Angeles,53733
+Parlier,City,Fresno,14576
+Pasadena,City,Los Angeles,138699
+Paso Robles,City,San Luis Obispo,31490
+Patterson,City,Stanislaus,23781
+Perris,City,Riverside,78700
+Petaluma,City,Sonoma,59776
+Pico Rivera,City,Los Angeles,62088
+Piedmont,City,Alameda,11270
+Pinole,City,Contra Costa,19022
+Pismo Beach,City,San Luis Obispo,8072
+Pittsburg,City,Contra Costa,76416
+Placentia,City,Orange,51824
+Placerville,City,El Dorado,10747
+Pleasant Hill,City,Contra Costa,34613
+Pleasanton,City,Alameda,79871
+Plymouth,City,Amador,1078
+Point Arena,City,Mendocino,460
+Pomona,City,Los Angeles,151713
+Port Hueneme,City,Ventura,21954
+Porterville,City,Tulare,62623
+Portola,City,Plumas,2100
+Portola Valley,Town,San Mateo,4456
+Poway,City,San Diego,48841
+Rancho Cordova,City,Sacramento,79332
+Rancho Cucamonga,City,San Bernardino,174453
+Rancho Mirage,City,Riverside,16999
+Rancho Palos Verdes,City,Los Angeles,42287
+Rancho Santa Margarita,City,Orange,47949
+Red Bluff,City,Tehama,14710
+Redding,City,Shasta,93611
+Redlands,City,San Bernardino,73168
+Redondo Beach,City,Los Angeles,71576
+Redwood City,City,San Mateo,84292
+Reedley,City,Fresno,25227
+Rialto,City,San Bernardino,104026
+Richmond,City,Contra Costa,116448
+Ridgecrest,City,Kern,27959
+Rio Dell,City,Humboldt,3379
+Rio Vista,City,Solano,10005
+Ripon,City,San Joaquin,16013
+Riverbank,City,Stanislaus,24865
+Riverside,City,Riverside,314998
+Rocklin,City,Placer,71601
+Rohnert Park,City,Sonoma,44390
+Rolling Hills,City,Los Angeles,1739
+Rolling Hills Estates,City,Los Angeles,8280
+Rosemead,City,Los Angeles,51185
+Roseville,City,Placer,147773
+Ross,Town,Marin,2338
+Sacramento,City,Sacramento,524943
+St. Helena,City,Napa,5430
+Salinas,City,Monterey,163542
+San Anselmo,Town,Marin,12830
+San Bernardino,City,San Bernardino,222101
+San Bruno,City,San Mateo,43908
+San Carlos,City,San Mateo,30722
+San Clemente,City,Orange,64293
+San Diego,City,San Diego,1386932
+San Dimas,City,Los Angeles,34924
+San Fernando,City,Los Angeles,23946
+San Francisco,City and county,San Francisco,873965
+San Gabriel,City,Los Angeles,39568
+San Jacinto,City,Riverside,53898
+San Joaquin,City,Fresno,3701
+San Jose,City,Santa Clara,1013240
+San Juan Bautista,City,San Benito,2089
+San Juan Capistrano,City,Orange,35196
+San Leandro,City,Alameda,91008
+San Luis Obispo,City,San Luis Obispo,47063
+San Marcos,City,San Diego,94833
+San Marino,City,Los Angeles,12513
+San Mateo,City,San Mateo,105661
+San Pablo,City,Contra Costa,32127
+San Rafael,City,Marin,61271
+San Ramon,City,Contra Costa,84605
+Sand City,City,Monterey,325
+Sanger,City,Fresno,26617
+Santa Ana,City,Orange,310227
+Santa Barbara,City,Santa Barbara,88665
+Santa Clara,City,Santa Clara,127647
+Santa Clarita,City,Los Angeles,228673
+Santa Cruz,City,Santa Cruz,62956
+Santa Fe Springs,City,Los Angeles,19219
+Santa Maria,City,Santa Barbara,109707
+Santa Monica,City,Los Angeles,93076
+Santa Paula,City,Ventura,30657
+Santa Rosa,City,Sonoma,178127
+Santee,City,San Diego,60037
+Saratoga,City,Santa Clara,31051
+Sausalito,City,Marin,7269
+Scotts Valley,City,Santa Cruz,12224
+Seal Beach,City,Orange,25242
+Seaside,City,Monterey,32366
+Sebastopol,City,Sonoma,7521
+Selma,City,Fresno,24674
+Shafter,City,Kern,19953
+Shasta Lake,City,Shasta,10371
+Sierra Madre,City,Los Angeles,11268
+Signal Hill,City,Los Angeles,11848
+Simi Valley,City,Ventura,126356
+Solana Beach,City,San Diego,12941
+Soledad,City,Monterey,24925
+Solvang,City,Santa Barbara,6126
+Sonoma,City,Sonoma,10739
+Sonora,City,Tuolumne,5003
+South El Monte,City,Los Angeles,19567
+South Gate,City,Los Angeles,92726
+South Lake Tahoe,City,El Dorado,21330
+South Pasadena,City,Los Angeles,26943
+South San Francisco,City,San Mateo,66105
+Stanton,City,Orange,37962
+Stockton,City,San Joaquin,320804
+Suisun City,City,Solano,29518
+Sunnyvale,City,Santa Clara,155805
+Susanville,City,Lassen,16728
+Sutter Creek,City,Amador,2646
+Taft,City,Kern,8546
+Tehachapi,City,Kern,12939
+Tehama,City,Tehama,435
+Temecula,City,Riverside,110003
+Temple City,City,Los Angeles,36494
+Thousand Oaks,City,Ventura,126966
+Tiburon,Town,Marin,9146
+Torrance,City,Los Angeles,147067
+Tracy,City,San Joaquin,93000
+Trinidad,City,Humboldt,307
+Truckee,Town,Nevada,16729
+Tulare,City,Tulare,68875
+Tulelake,City,Siskiyou,902
+Turlock,City,Stanislaus,72740
+Tustin,City,Orange,80276
+Twentynine Palms,City,San Bernardino,28065
+Ukiah,City,Mendocino,16607
+Union City,City,Alameda,70143
+Upland,City,San Bernardino,79040
+Vacaville,City,Solano,102386
+Vallejo,City,Solano,126090
+Ventura,City,Ventura,110763
+Vernon,City,Los Angeles,222
+Victorville,City,San Bernardino,134810
+Villa Park,City,Orange,5843
+Visalia,City,Tulare,141384
+Vista,City,San Diego,98381
+Walnut,City,Los Angeles,28430
+Walnut Creek,City,Contra Costa,70127
+Wasco,City,Kern,27047
+Waterford,City,Stanislaus,9120
+Watsonville,City,Santa Cruz,52590
+Weed,City,Siskiyou,2862
+West Covina,City,Los Angeles,109501
+West Hollywood,City,Los Angeles,35757
+West Sacramento,City,Yolo,53915
+Westlake Village,City,Los Angeles,8029
+Westminster,City,Orange,90911
+Westmorland,City,Imperial,2014
+Wheatland,City,Yuba,3712
+Whittier,City,Los Angeles,87306
+Wildomar,City,Riverside,36875
+Williams,City,Colusa,5538
+Willits,City,Mendocino,4988
+Willows,City,Glenn,6293
+Windsor,Town,Sonoma,26344
+Winters,City,Yolo,7115
+Woodlake,City,Tulare,7419
+Woodland,City,Yolo,61032
+Woodside,Town,San Mateo,5309
+Yorba Linda,City,Orange,68336
+Yountville,Town,Napa,3436
+Yreka,City,Siskiyou,7807
+Yuba City,City,Sutter,70117
+Yucaipa,City,San Bernardino,54542
+Yucca Valley,Town,San Bernardino,21738
